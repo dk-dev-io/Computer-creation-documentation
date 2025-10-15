@@ -1,2 +1,1 @@
-# Computer-creation-documentation
-My path from relay to finished computer
+This repository is my educational project on learning the structure of computing technology. Starting from the history of how we went from the Abacus to transistors and how to build a full-fledged computer based on relays.
